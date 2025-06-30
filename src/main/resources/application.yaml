@@ -1,6 +1,6 @@
 ktor:
     application:
         modules:
-            - dev.fabiokusaba.ApplicationKt.module
+            - dev.fabiokusaba.plugins.ApplicationKt.module
     deployment:
         port: 8080
